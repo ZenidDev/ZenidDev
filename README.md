@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ZenidDev/ZenidDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Deniz
 
-Here are some ideas to get you started:
+**Game Developer • Unity • C#**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building satisfying, stylized games with a focus on **game feel**, **clean code**, and **juicy gameplay**.
+
+</div>
+
+---
+
+### 🎮 Currently
+
+* 🚧 Developing a stylized FPS project in Unity
+* 🧠 Learning advanced gameplay programming
+* 🎨 Improving game feel, UI/UX and VFX
+* ⚡ Always refining and polishing
+
+---
+
+### 🛠️ Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode,visualstudio" />
+</p>
+
+---
+
+### 🎯 Focus
+
+```text
+Responsive Movement
+Juicy Combat
+Stylized Visuals
+Clean Architecture
+Performance
+```
+
+---
+
+> *"Games aren't remembered for having more features. They're remembered for how they feel."*
