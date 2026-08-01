@@ -13,7 +13,7 @@ Building software and games with **PASSION**.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,html,css,js,python,mysql,blender,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,html,css,js,python,mysql,go,blender,git,,," />
 </p>
 
 ---
