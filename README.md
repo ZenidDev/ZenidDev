@@ -2,41 +2,30 @@
 
 # 👋 Hey, I'm Deniz
 
-**Game Developer • Unity • C#**
+**💻 Software Engineer • 🎮 Game Developer**
 
-Building satisfying, stylized games with a focus on **game feel**, **clean code**, and **juicy gameplay**.
+Passionate about building software and crafting polished games with a strong focus on **clean code**, **game feel**, and **great user experiences**.
 
 </div>
 
 ---
 
-### 🎮 Currently
+## 🛠️ Tech Stack
 
-* 🚧 Developing a stylized FPS project in Unity
-* 🧠 Learning advanced gameplay programming
-* 🎨 Improving game feel, UI/UX and VFX
-* ⚡ Always refining and polishing
-
----
-
-### 🛠️ Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs,blender,git,github,vscode,visualstudio" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,html,css,js,python,mysql,blender,git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-### 🎯 Focus
+## 🎯 Passion
 
-```text
-Responsive Movement
-Juicy Combat
-Stylized Visuals
-Clean Architecture
-Performance
-```
+Passionate about software engineering, gameplay programming, and continuously improving my craft. I enjoy turning ideas into polished experiences that people genuinely enjoy using and playing.
 
 ---
 
-> *"Games aren't remembered for having more features. They're remembered for how they feel."*
+<div align="center">
+
+*"Great software solves problems. Great games create experiences."*
+
+</div>
