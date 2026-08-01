@@ -4,7 +4,7 @@
 
 **💻 Software Engineer • 🎮 Game Developer**
 
-Passionate about building software and crafting polished games with a strong focus on **clean code**, **game feel**, and **great user experiences**.
+Building software and games with **PASSION**.
 
 </div>
 
